@@ -1,5 +1,5 @@
-### ✨ Hello, it's my GitHub ✨ 
-## I'm still studying, but there will be cool projects here soon
+## ✨ Hello, it's my GitHub ✨ 
+### I'm still studying, but there will be cool projects here soon
 
 <!--
 **Kirkleve/Kirkleve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
